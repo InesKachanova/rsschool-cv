@@ -4,10 +4,10 @@
 ****
 ## My contact info:
 
-**Phone:**
-**E-mail:** 
-**GitHub:** 
-**Telegram** 
+**Phone:** +38 050 2581555
+**E-mail:**  inessa.kachanova@gmail.com
+**GitHub:**  https://github.com/InesKachanova/
+**Telegram:** @inessika
 
 I really need in activities where I can develop during my life. That is why I`m here. 
 
