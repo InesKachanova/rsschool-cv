@@ -1,10 +1,13 @@
 # Inesa Kachanova
-****
+
 ## My contact info:
 
 **Phone:** +38 050 2581555
+
 **E-mail:**  inessa.kachanova@gmail.com
+
 **GitHub:**  https://github.com/InesKachanova/
+
 **Telegram:** @inessika
 
 I really need in activities where I can develop during my life. That is why I`m here. 
@@ -52,10 +55,12 @@ export  default  Testimonial;
 
 ## Education
 National Pedagogical University named Drahomanova, Kyiv
+
 2005 – 2010
+
 Specialist in sociology
 
 ## Languages
-Ukrainian - native speaker.
-Russian - native speaker.
-English - A2 (in process…)
+* **Ukrainian** - native speaker.
+* **Russian** - native speaker.
+* **English** - A2 (in process…)
