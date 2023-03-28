@@ -1,5 +1,3 @@
-[rsschool-cv]
-
 # Inesa Kachanova
 ****
 ## My contact info:
